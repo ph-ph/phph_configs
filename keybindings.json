@@ -56,4 +56,32 @@
         "key": "ctrl+alt+right",
         "command": "workbench.action.navigateForward"
     },
+    {
+        "key": "shift+cmd+c",
+        "command": "workbench.action.showCommands"
+    },
+    {
+        "key": "shift+cmd+a",
+        "command": "-workbench.action.showCommands"
+    },
+    {
+        "key": "alt+;",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+;",
+        "command": "-editor.action.commentLine",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+;",
+        "command": "editor.action.blockComment",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+;",
+        "command": "-editor.action.blockComment",
+        "when": "editorTextFocus"
+    },
 ]
