@@ -84,4 +84,14 @@
         "command": "-editor.action.blockComment",
         "when": "editorTextFocus"
     },
+    {
+        "key": "ctrl+h",
+        "command": "-deleteLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+h",
+        "command": "-deleteLeft",
+        "when": "editorTextFocus"
+    },
 ]
