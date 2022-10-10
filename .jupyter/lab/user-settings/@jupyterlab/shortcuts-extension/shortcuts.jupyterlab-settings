@@ -1,0 +1,18 @@
+{
+    "shortcuts": [
+        {
+            "command": "Collapsible_Headings:Toggle_Collapse",
+            "keys": [
+                "Ctrl Shift ArrowLeft"
+            ],
+            "selector": "body"
+        },
+        {
+            "command": "Collapsible_Headings:Toggle_Collapse",
+            "keys": [
+                "Ctrl Shift ArrowRight"
+            ],
+            "selector": "body"
+        }        
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "load_extensions": {
+    "nbextensions_configurator/config_menu/main": true,
+    "toc2/main": false,
+    "collapsible_headings/main": true,
+    "codefolding/main": true
+  },
+  "toc2": {
+    "toc_cell": true,
+    "toc_window_display": true
+  }
+}
